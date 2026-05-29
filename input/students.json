@@ -1,0 +1,40 @@
+[
+  {
+    "age": 19,
+    "study_hours_per_week": 12,
+    "attendance_rate": 78,
+    "previous_score": 66,
+    "assignments_completed": 8,
+    "sleep_hours": 6.5,
+    "practice_tests_taken": 3,
+    "late_submissions": 2,
+    "absences": 4,
+    "internet_usage_hours": 5,
+    "social_media_hours": 2.5,
+    "gender": "male",
+    "parent_education": "bachelor",
+    "course_type": "programming",
+    "learning_format": "offline",
+    "has_part_time_job": "no",
+    "internet_access": "yes"
+  },
+  {
+    "age": 18,
+    "study_hours_per_week": 3,
+    "attendance_rate": 42,
+    "previous_score": 38,
+    "assignments_completed": 2,
+    "sleep_hours": 5,
+    "practice_tests_taken": 0,
+    "late_submissions": 7,
+    "absences": 12,
+    "internet_usage_hours": 8,
+    "social_media_hours": 6,
+    "gender": "female",
+    "parent_education": "high_school",
+    "course_type": "math",
+    "learning_format": "online",
+    "has_part_time_job": "yes",
+    "internet_access": "yes"
+  }
+] 
